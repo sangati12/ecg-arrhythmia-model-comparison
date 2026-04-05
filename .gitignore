@@ -1,0 +1,7 @@
+# Keep saved_models (using LFS)
+models/
+*.keras
+*.h5
+__pycache__/
+*.pyc
+.env
